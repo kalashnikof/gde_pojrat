@@ -1,0 +1,1 @@
+web: gunicorn gde_pojrat:app
